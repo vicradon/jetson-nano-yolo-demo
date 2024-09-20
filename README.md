@@ -2,7 +2,7 @@
 
 This is a demo of running ultralytics-YOLO on a Jetson nano. It uses a very minimal example to run the Yolov8 nano weights (~7 MB) on a picture of Leonardo DiCaprico with three distinct objects: A person, a wine glass, and a pair of sunglasses.
 
-<img width="1092" alt="image" src="https://gist.github.com/user-attachments/assets/dfd10026-4912-4077-aa91-86d9157ab6c8">
+![inference](./docs/inference.png)
 
 ## Prerequisites
 
